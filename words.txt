@@ -1,0 +1,266 @@
+stipulate:규정하다::-1
+bog:수렁에 빠지다::-1
+omen:징조::-1
+per se:본질적으로, 그 자체로서::-1
+thorny:가시가 많은::-1
+provision:설비::-1
+epistemological:인식론의::-1
+circumscribed:제한된::-1
+articulate:명확히 표현된, 논리 정연한::-1
+sought:seek의 과거 분사::-1
+Cesarian section:제왕절개::-1
+uternine:자궁의::-1
+fender:바퀴덮개::-1
+quintessential:전형적인::-1
+insurmountable:극복할 수 없는::-1
+contend:주장하다, 논쟁하다::-1
+speculative:사색적인, 추리의::-1
+adequate:알맞은::-1
+inadvertent:부주의한::-1
+germane:밀접한 관계가 있는::-1
+partisanship:가담::-1
+ex officio:직권에 의해::-1
+inaugural:취임의::-1
+impasse:막다른 골목::-1
+unanimously:만장일치로::-1
+balloting:투표::-1
+hound:쫓다::-1
+obligation:duty::-1
+braid:노끈, 꼰 끈::-1
+utter:absolute, complete::-1
+hogwash:rubbish, nonsense::-1
+august:majestic::-1
+ardent:impassioned::-1
+delve:explore::-1
+superficial:외관상::-1
+motley:multicolored::-1
+holism:전체론적::-1
+reductionism:환원주의::-1
+teeter:비틀비틀 서있다::-1
+liken:analogous, alike, similar::-1
+fathom:measure, discover, understand::-1
+mundane:boring, ordinary::-1
+sublime:excellent, wonderful, noble::-1
+deprive:remove, seize::-1
+perverse:외고집의, 마음대로 안되는::-1
+conviction:belief, judgement::-1
+tome:(방대한 책) 한 권::-1
+presumptuous:뻔뻔한, 주제 넘은::-1
+shunt:옆으로 돌리다, 비키게 하다::-1
+coy:shy, timid::-1
+imbue:infuse, fill, permeate::-1
+arid:dry, desert::-1
+devoid:lacking, deficient::-1
+parochial:narrow::-1
+chauvinism:쇼비니즘, 맹목적 애국주의::-1
+don:put on, wear::-1
+contention:controversy::-1
+nestle:cuddle::-1
+cranium:skull::-1
+sterile:impotent, infertile::-1
+denizen:resident::-1
+impartial:neutral, objective::-1
+telltale:indication::-1
+forbidding:threatening, menacing, formidable::-1
+circumvent:avoid, bypass::-1
+contemporaneous:동시대의::-1
+staunch:strong, firm::-1
+forestall:앞지르다::-1
+elaborate:complex, detailed, intricate::-1
+deftly:skillfully::-1
+dubious:doubtful, skeptical, suspicious::-1
+spew:토해내다::-1
+wind up:종료, 끝맺음::-1
+inexorablly:relentlessly, 무정하게::-1
+clandestine:secret, covert::-1
+revalation:폭로::-1
+abound:overflow, thrive::-1
+bosom:가슴, 흉부, 속, 중앙::-1
+bastion:fortress, citadel, castle::-1
+impervious:impenetrable::-1
+bluntly:abruptly, tersely::-1
+droll:amusing, hilarious::-1
+scintillating:exciting, stimulating::-1
+stirring:dramatic, moving::-1
+agile:재빠른::-1
+tacitly:implicitly, silently::-1
+concur:admit::-1
+protoplasm:원형질::-1
+gusto:pleasure, enthusiasm, delight::-1
+sermonize:설교하다::-1
+paragon:model, example::-1
+cherished:adored::-1
+chasm:abyss::-1
+crux:essence, gist::-1
+irrepressible:억누를 수 없는::-1
+allusion:암시, implication::-1
+upshot:종국, 결말::-1
+highbrow:scholarly::-1
+keen:sharp, enthusiastic::-1
+churning:agitate, whip, beat::-1
+enthralling:captivating, fascinating::-1
+beckon:gesture, invite, lure::-1
+loom:rise, appear::-1
+frigid:cold, distant, passionless::-1
+slew:늪::-1
+profound:deep, significant::-1
+dippy:엉뚱한::-1
+snag:걸리다::-1
+stab:시도하다 (make/have/take a stab)::-1
+dawning:emerge, arise::-1
+in earnest:진심으로::-1
+fictitious:fictional::-1
+whim:impulse, 일시적 생각(on a whim)::-1
+off-the-wall:즉흥의::-1
+contrapuntal:대위법의::-1
+voracious:avid, passionate::-1
+allegory:우화, 비유::-1
+abstruse:esoteric::-1
+embody:illustrate, symbolize::-1
+stowed in:집어넣다::-1
+riffle:펄럭펄럭 넘기다::-1
+verboten:(법에 의해) 금지된::-1
+exquisite:elegant::-1
+erstwhile:formerly::-1
+concoct:develop, invent::-1
+wallow:뒹굴다::-1
+exemplify:예시하다, embody, represent::-1
+oddball:bizarre, curious::-1
+blithely:cheerfully, gladly::-1
+inextricable:tangled, labyrinthine, perplexing::-1
+loath:reluctant::-1
+unorthodox:이단의::-1
+vet:조사하다::-1
+feeler:떠봄::-1
+tentative:temporary, uncertain, experimental::-1
+fledgling:애송이, 햇병아리::-1
+dingy:음침함::-1
+verdict:decision, judgement::-1
+shrewd:clever::-1
+wrought:work의 과거/분사::-1
+galley:교정쇄::-1
+chuck:throw, toss::-1
+salvage:구조::-1
+ordeal:시련::-1
+grace:자비::-1
+galore:풍부한 (n. + galore)::-1
+vie:compete::-1
+transmogrify:(우스꽝스럽게) 변형시키다::-1
+insidious:교활한::-1
+grapple:struggle, grasp::-1
+status quo:현상::-1
+concession:acknowledgment, allowance::-1
+mar:훼손하다::-1
+rife:자자한::-1
+toil:labor::-1
+in the nick of time:때마침::-1
+headlong:곤두박이로::-1
+rueful:regret::-1
+raison d'être:존재 이유::-1
+envisage:imagine, picture::-1
+bludgeon:beat, 곤봉으로 때리다::-1
+gingerly:carefully, cautiously::-1
+ecstatic:delighted, thrilled::-1
+redouble:배가하다, 세게하다::-1
+anglophone:영어 사용자::-1
+lamentable:heartbreaking::-1
+inimical:malicious::-1
+about-face:전향::-1
+scorn:비웃음, disdain::-1
+heap:쌓다::-1
+virtuosity:묘기::-1
+strive:endeavor, attempt::-1
+anthology:선집::-1
+jolt:덜컹거림::-1
+conundrum:수수께끼::-1
+ineradicable:근절할 수 없는::-1
+incessant:ceaseless, constant::-1
+afflict:괴롭히다::-1
+concomitant:부수물::-1
+exhilaration:excitement::-1
+germinate:발아하다::-1
+evanescent:brief, ephemeral::-1
+treatise:보고서::-1
+glib:그럴듯한::-1
+glitz:현란한 것::-1
+latch:걸쇠::-1
+militate:작용하다, 영향을 미치다(miliate for/against)::-1
+spiffy:세련된::-1
+stroll:산책::-1
+codger:괴팍한 노인::-1
+gawky:얼빠진::-1
+suspenders:멜빵::-1
+rube:시골뜨기::-1
+peasant:농부::-1
+substantial:실질적인, 대폭적인::-1
+sacrosanct:신성불가침의::-1
+lout:simpleton, 시골뜨기::-1
+usher:guide::-1
+impromptu:즉흥적으로::-1
+wherefore:무엇때문에::-1
+virtue:value, power::-1
+explicate:해설하다::-1
+phonograph:축음기::-1
+supposedly:소문으로는::-1
+ostensible:외관상의::-1
+veer:turn (바람 방향이 바뀌다)::-1
+ensconce:숨기다::-1
+interlude:막간::-1
+forceful:convincing::-1
+wily:cunning, shrewd::-1
+wanting:~이 없는::-1
+abridge:abbreviate, compress::-1
+aberrent:abnormal, deviant, irregular::-1
+exuberant:exhilarated, enthusiastic::-1
+reenact:다시 제정::-1
+astuteness:교활함::-1
+court:왕실::-1
+patron:후원자::-1
+foremost:최초의, 일류의::-1
+turgid:부어오른, 과장된::-1
+extemporize:즉흥 연주::-1
+anecdote:일화, 비화::-1
+choirmaster:성가대 지휘자::-1
+cembalo:harpsichord::-1
+agitate:동요, 진동, 흥분::-1
+alight:내리다::-1
+lodging:숙소, 하숙::-1
+prolix:지루한, 장황한::-1
+attend:참석하다::-1
+dwell:곰곰히 깊게 생각하다, 길게 논하다(dwell on/upon)::-1
+unpremeditated:미리 계획되지 않은::-1
+extempore:즉흥적으로::-1
+erudite:박식한::-1
+austerely:엄격한, 준엄한, 간소한::-1
+stagger:비틀거리다::-1
+diminution:감소, 축소::-1
+augmentation:증가, 증대::-1
+semitone:반음::-1
+retrograde:역행, 후퇴, 퇴보::-1
+affectionately:애정을 다하여 (Affectionately yours, ...)::-1
+peculiar:독특한, 특별한, 기묘한::-1
+locomotion:운동, 이동::-1
+intricate:뒤얽힌, 복잡한, 난해한::-1
+employ:사용하다::-1
+exploit:개발하다, 활용하다::-1
+hilt:자루 (to the hilt: 완전히, 철저하게)::-1
+accompaniment:반주::-1
+all in all:전부하여, 대채로::-1
+counterpoint:대위법::-1
+contrive:고안하다::-1
+remote:멀리까지 미치다::-1
+indubitable:명백한::-1
+relish:즐기다, 맛있게 먹다::-1
+ad infinitum:무한히::-1
+lithograph:석판화::-1
+trudge:터벅터벅 건다::-1
+haziness:흐릿함::-1
+repercussion:영향, (사건의) 반동::-1
+dichotomy:이분법::-1
+introspect:내성적인, 자기 관찰의::-1
+luster:광체, 영광, 명예::-1
+hinge:중심점, ~에 따라 정해지다::-1
+opus:작(품)::-1
+Incidentally, ...:덧붙이자면, 하는 김에, 말하자면,::-1
+outwit:선수치다, 속이다, 허를 찌르다::-1
+pertain:속하다, 관계하다, 적합하다 (~ to)::-1
