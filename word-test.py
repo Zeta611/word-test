@@ -1,4 +1,5 @@
-import random
+from nptyping import NDArray
+import numpy as np
 import re
 from typing import Dict
 import warnings
@@ -61,30 +62,83 @@ def write_words(
             file.write(f"{word}:{data.meaning}::{data.priority}\n")
 
 
-def normalize_priority(priority: int, max_priority: int) -> float:
-    if priority < 0:
-        return abs(max_priority) + 1
-    if priority == 0:
-        return 0.1
-    return priority
+def normalize_weights(weights: NDArray) -> None:
+    """Convert non-positive weights, and normalize weights to sum to 1."""
+
+    max_w = max(weights)
+    if max_w < 0:
+        max_w = 0
+
+    for i, w in enumerate(weights):
+        if w < 0:
+            weights[i] = max_w + 1
+        elif w == 0:
+            weights[i] = 0.1
+    weights /= sum(weights)
 
 
 def sample_words(
     word_meanings: Dict[str, WordData], size: int = 20
 ) -> Dict[str, WordData]:
     words = list(word_meanings.keys())
-    priorities = [data.priority for data in word_meanings.values()]
-    normalized_priorities = list(
-        map(lambda p: normalize_priority(p, max(priorities)), priorities)
+    priorities = np.fromiter(
+        (data.priority for data in word_meanings.values()), float
     )
-    chosen_words = random.choices(words, weights=normalized_priorities, k=size)
+    normalize_weights(priorities)
+    chosen_words = np.random.choice(words, size, replace=False, p=priorities)
     return {word: word_meanings[word] for word in chosen_words}
 
 
-# def test_words()
+def prompt(text: str = "", default: bool = True) -> bool:
+    option_prompt = f"[{'Y' if default else 'y'}/{'n' if default else 'N'}]"
+    while True:
+        response = input(f"{text} {option_prompt}\n").lower()
+        if response == "":
+            return default
+        elif response in ["y", "yes"]:
+            return True
+        elif response in ["n", "no"]:
+            return False
+
+
+def test_words(filename: str = "words.txt", size: int = 20) -> None:
+    answer_cnt = 0
+    wrong_words = []
+
+    meanings = read_words(filename)
+    chosen_words = sample_words(meanings, size)
+
+    for i, word in enumerate(chosen_words):
+        input(f"{i + 1}. What is the meaning of '{word}'?")
+        correct = prompt(
+            f"The meaning for {word} is {chosen_words[word].meaning}. Did you get it right?"
+        )
+        print()
+
+        if correct:
+            answer_cnt += 1
+        else:
+            wrong_words.append(word)
+
+        if chosen_words[word].priority <= 0:
+            meanings[word].priority = 0 if correct else 1
+        else:
+            meanings[word].priority -= 1 if correct else -1
+
+    percentage = answer_cnt / size * 100
+    print(f"You got {answer_cnt} out of {size} words. That is {percentage}%.")
+
+    print("You need to practice more with following words:")
+    for word in wrong_words:
+        print(f"{word}: {chosen_words[word].meaning}")
+    print()
+
+    if prompt("Save progress?"):
+        write_words(meanings, filename)
+        print("Saved!")
+    else:
+        print("Current round discarded.")
 
 
 warnings.simplefilter("default")
-info = read_words()
-# write_words(info)
-print(sample_words(info))
+test_words("words.txt", size=20)

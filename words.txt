@@ -9,7 +9,7 @@ circumscribed:제한된::-1
 articulate:명확히 표현된, 논리 정연한::-1
 sought:seek의 과거 분사::-1
 Cesarian section:제왕절개::-1
-uternine:자궁의::-1
+uterine:자궁의::-1
 fender:바퀴덮개::-1
 quintessential:전형적인::-1
 insurmountable:극복할 수 없는::-1
